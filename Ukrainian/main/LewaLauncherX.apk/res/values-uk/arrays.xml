@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Стандартний</item>
+        <item>Перельот</item>
+        <item>Обертання</item>
+        <item>Перевертання</item>
+        <item>Внутрішній куб</item>
+        <item>Зовнішній куб</item>
+        <item>Гармошка</item>
+        <item>Карусель</item>
+    </string-array>
+    <string-array name="desktop_transition_effect_values">
+        <item>Standard</item>
+        <item>OverShoot</item>
+        <item>RotateDown</item>
+        <item>Flip</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Accordion</item>
+        <item>CarouselLeft</item>
+    </string-array>
+    <string-array name="app_category">
+        <item>Життя</item>
+        <item>Чат</item>
+        <item>Соцмережі</item>
+        <item>Безпека</item>
+        <item>Відео</item>
+        <item>Шпалери</item>
+        <item>Бравзер</item>
+        <item>Офіс</item>
+        <item>Ігри</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="game_second_category">
+        <item>Стратегії</item>
+        <item>Бійки</item>
+        <item>Літалки</item>
+        <item>Рольові</item>
+        <item>Сільгосп</item>
+        <item>Інше</item>
+        <item>Мобільні</item>
+        <item>Гонки</item>
+        <item>Головоломки</item>
+        <item>Настільні</item>
+    </string-array>
+</resources>
