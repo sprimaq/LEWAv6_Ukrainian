@@ -2,11 +2,11 @@
 <resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Стандартний</item>
-        <item>Перельот</item>
+        <item>Перескок</item>
         <item>Обертання</item>
         <item>Перевертання</item>
-        <item>Внутрішній куб</item>
-        <item>Зовнішній куб</item>
+        <item>Куб всередині</item>
+        <item>Куб зовні</item>
         <item>Гармошка</item>
         <item>Карусель</item>
     </string-array>
