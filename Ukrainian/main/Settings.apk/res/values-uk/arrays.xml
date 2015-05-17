@@ -96,19 +96,6 @@
         <item>Блоковано</item>
         <item>"Тимчасове уникнення слабкого з'єднання"</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI Certificate</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Натисніть кнопку</item>
         <item>PIN від піру</item>
@@ -153,11 +140,6 @@
         <item>Кількість запусків</item>
         <item>Назва додатку</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Немає</item>
         <item>PAP</item>
@@ -183,11 +165,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP або CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -252,7 +229,7 @@
         <item>Немає</item>
         <item>Logcat</item>
         <item>Systrace (графіка)</item>
-        <item>Виклик стеку при glGetError</item>
+        <item>Виклик стеку glGetError</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартне обмеження</item>
@@ -261,14 +238,6 @@
         <item>Не більше за 2 процеси</item>
         <item>Не більше за 3 процеси</item>
         <item>Не більше за 4 процеси</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
     </string-array>
     <string-array name="vpn_states">
         <item>"Від'єднано"</item>
@@ -360,36 +329,9 @@
         <item>Лише WCDMA</item>
         <item>Лише GSM</item>
     </string-array>
-    <string-array name="wifi_security_wfa">
-        <item>@string/wifi_security_none</item>
-        <item>WEP</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-        <item>802.1x EAP</item>
-        <item>WAPI PSK</item>
-        <item>WAPI Certificate</item>
-    </string-array>
     <string-array name="wifi_ap_channel_width">
         <item>20 МГц</item>
         <item>Авто 20/40 МГц</item>
-    </string-array>
-    <string-array name="wpa_security">
-        <item>@string/wifi_security_none</item>
-        <item>WEP</item>
-        <item>WPA/WPA2 PSK</item>
-        <item>802.1x EAP</item>
-    </string-array>
-    <string-array name="wpa_security_wfa">
-        <item>@string/wifi_security_none</item>
-        <item>WEP</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-        <item>802.1x EAP</item>
-    </string-array>
-    <string-array name="wapi_security">
-        <item>@string/wifi_security_none</item>
-        <item>WAPI PSK</item>
-        <item>WAPI Certificate</item>
     </string-array>
     <string-array name="hdmi_video_resolution_entries">
         <item>Авто</item>
@@ -404,10 +346,6 @@
     <string-array name="network_use_entry">
         <item>Лише вдома</item>
         <item>Вдома + роумінг</item>
-    </string-array>
-    <string-array name="tvout_system_list">
-        <item>PAL</item>
-        <item>NTSC</item>
     </string-array>
     <string-array name="sim_slot">
         <item>(не вказано)</item>
